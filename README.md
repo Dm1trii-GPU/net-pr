@@ -14,8 +14,11 @@
 - Издательство «Читый лист»
 - Космопорт «Черезтерновые Кеплеры»
 - Дизайн-студия имени Слишком Известного Персонажа
-Ниже наш пример кода:
+Ниже наш пример кода: 
+'''css
 .selector {
-  front-family: "Awesome", Arial, sans-serif;
-  color: red;
+front-family: "Awesome", Arial, sans-serif;
+ color: red;
 }
+'''
+
