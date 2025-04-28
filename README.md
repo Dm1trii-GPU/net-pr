@@ -15,4 +15,7 @@
 - Космопорт «Черезтерновые Кеплеры»
 - Дизайн-студия имени Слишком Известного Персонажа
 Ниже наш пример кода:
-.selector {front-family: "Awesome", Arial, sans-serif; color: red;}
+.selector {
+  front-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
